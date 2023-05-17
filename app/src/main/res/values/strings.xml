@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">LTPUsuarios</string>
+    <string name="spngentexto">Género</string>
+    <string name="spnregtexto">Región</string>
+    <string name="spnesptexto">Especialidad</string>
+</resources>
